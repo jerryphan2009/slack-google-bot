@@ -8,7 +8,7 @@ On the next screen, note the API token.
 
 ## Deploy SlackGoogleBot
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dblock/slack-google-bot/tree/master)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jerryphan2009/slack-google-bot/tree/master)
 
 ### Environment
 
